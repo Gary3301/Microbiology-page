@@ -1,2 +1,2 @@
-# web-magazine-
-first ever webpage, made whilst learning html and css
+# Microbiology page
+second ever webpage, made whilst learning html and css
